@@ -11,7 +11,7 @@
     }
   </script>
   
- <!-->
+ <>
  
  
   Hello Jose,
@@ -19,7 +19,7 @@
   Regards, Duncan
 
 
-<!-->
+<>
 
   <script>
 function myFunction() {
